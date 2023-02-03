@@ -1,4 +1,4 @@
-# PollerBear - Polling App (Sept. 2022 – Dec. 2022)
+# PollerBear - Polling App (Sept. 2021 – Dec. 2021)
 
 A polling app that enables users to create and participate in polls worldwide.
 
