@@ -1,8 +1,8 @@
 # PollerBear - Polling App (Sept. 2021 – Dec. 2021)
 
-A polling app that enables users to create and participate in polls worldwide.
+- A polling app that enables users to create and participate in polls worldwide.
 
-## Web Site Url : https://5110jolt.azurewebsites.net/
+### Web Site Url : https://5110jolt.azurewebsites.net/
 
 ## Key Contributions
 - Developed on a team of 4 using Agile (Scrumban) methodologies
