@@ -29,10 +29,10 @@ A polling app that enables users to create and participate in polls worldwide.
 - Bootstrap
 
 ## Deployment
-Deployed on Azure
+- Deployed on Azure
 
 ## Feedback
-Received top-rated feedback from senior dev leads (Over 50 students across 13 teams)
+- Received top-rated feedback from senior dev leads (Over 50 students across 13 teams)
 
 ## Demo
 
