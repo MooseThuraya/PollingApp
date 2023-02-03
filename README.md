@@ -10,11 +10,12 @@ A polling app that enables users to create and participate in polls worldwide.
 - Collaborated in developing search, Twitter sharing, and graph analytics features, and achieved 100% code coverage
 - Developed an authentication system for users with admin privileges to perform CRUD on Users and Articles
 
-## Pages
+## Features
 - Login/Signup
-- Dashboard
-- Articles
-- Users/Articles Table
+- Create Poll
+- Poll Analytics
+- Search Poll
+- Twitter Sharing
 
 ## Technologies Used
 - C#
